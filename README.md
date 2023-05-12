@@ -1,7 +1,6 @@
-Welcome to Google me! Where we cut the TIME in half to make ME
-Search what you need and I will create a tab for you on your search!
-Just by simply typing what you wish to search in the entry box. 
-Hitting enter or clicking Search will create a new tab or pull up your
-browser to search what you are looking for.
+Welcome to Google me!
+I cut "time" in half to create ME, "Google Me"
+
+Just search using me and hit enter, I will create a new tab for you in your browser on your latest search!
 
 <img src='https://raw.githubusercontent.com/Firesean/GoogleMe/master/GoogleMe.png'/>
