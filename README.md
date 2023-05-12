@@ -3,7 +3,7 @@ I cut "time" in half to create ME, "Google Me"
 
 Just search using me and hit enter, I will create a new tab for you in your browser on your latest search!
 
-** Requirements
+## Requirements
 - The latest version of python
 
 <img src='https://raw.githubusercontent.com/Firesean/GoogleMe/master/GoogleMe.png'/>
